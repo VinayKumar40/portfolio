@@ -412,7 +412,7 @@ nav {
 }
 
 .book-summarizer-banner {
-    background-image: url('Book Summarizer Website Image.png');
+    background-image: url('book-summarizer.png') !important;
     background-size: cover;
     background-position: center;
 }
